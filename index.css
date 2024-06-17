@@ -1,0 +1,20 @@
+#dice-container {
+  text-align: center;
+  margin: 0 auto;
+}
+button {
+  padding: 10px;
+  font-weight: bold;
+  background-color: #00eeff;
+  border: none;
+  margin: 5px;
+  border-radius: 4px;
+}
+#numOfDice {
+  padding: 14px;
+}
+
+#diceImages img {
+  width: 150px;
+  object-fit: cover;
+}
